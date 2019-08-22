@@ -1,1 +1,1 @@
-# lab-starter-template
+Add name to README
